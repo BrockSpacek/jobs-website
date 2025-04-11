@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+      "company": "Meta",
+      "position": "Front End Developer",
+      "salary": "$56.25/hour to $173,000/year + bonus + equity + benefits",
+      "requirements": [
+        "2+ years experience with HTML, CSS, and JavaScript",
+        "Experience with reusable UI components",
+        "Object Oriented JavaScript Frameworks",
+        "Architectural design for complex front-end systems",
+        "Building maintainable and testable code bases",
+        "Performance debugging and benchmarking",
+        "Web application development"
+      ],
+      "benefits": [
+        "Medical, dental and vision insurance",
+        "Medical advocacy and concierge support",
+        "Mental health resources",
+        "Medical second opinion services",
+        "Well-being reimbursement program"
+      ],
+      "whyInterested": "Industry leader in social technology with opportunities to impact billions of users",
+      "skillsToLearn": "React, GraphQL, and Meta's internal frameworks",
+      "goals": "Contribute to large-scale projects and improve front-end performance optimization skills"
+    },
+    {
+        "id": 2,
+      "company": "Blizzard",
+      "position": "Senior Software Engineer",
+      "salary": "$101,000 - $186,754 Annual",
+      "requirements": [
+        "Production-grade C++ coding",
+        "Readable, well-tested code commits",
+        "Strong communication and articulation skills",
+        "Excellent problem-solving and debugging",
+        "Game performance analysis and optimization",
+        "Experience with multi-disciplinary teams",
+        "Mentorship mindset"
+      ],
+      "benefits": [
+        "Medical, dental, vision coverage",
+        "Health savings or reimbursement accounts",
+        "401(k) with Company match",
+        "Tuition reimbursement",
+        "Paid holidays, vacation, and sick time",
+        "Mental health & wellbeing programs",
+        "Free and discounted games",
+        "Possible relocation assistance"
+      ],
+      "whyInterested": "Passionate about game development and working on beloved game franchises",
+      "skillsToLearn": "Game engine development and optimization techniques",
+      "goals": "Lead development of game features and mentor junior engineers"
+    },
+    {
+        "id": 3,
+      "company": "Steam",
+      "position": "Software Engineer",
+      "salary": "$118,000 - $175,000 per year",
+      "requirements": [
+        "Experience with highly-scalable, distributed systems",
+        "Building robust services with external providers",
+        "Consuming/instrumenting big data for analytics",
+        "End-to-end development for games and e-commerce"
+      ],
+      "benefits": [
+        "Family-supportive work environment",
+        "Flexible schedule",
+        "Diverse and inclusive culture",
+        "Exceptional health insurance",
+        "Strong 401(k) employer match",
+        "Generous vacation and family leave",
+        "On-site health amenities",
+        "Fertility and adoption assistance",
+        "Child care reimbursement during interviews"
+      ],
+      "whyInterested": "Love the flat structure and innovative approach to digital distribution",
+      "skillsToLearn": "Distributed systems at scale and big data analytics",
+      "goals": "Help improve the Steam platform and contribute to the gaming ecosystem"
+    },
+    {
+        "id": 4,
+      "company": "Best Peers",
+      "position": "React.js Developer",
+      "salary": "Not specified",
+      "requirements": [
+        "Bachelor's/Master's in CS or related field",
+        "1-5 years React.js experience",
+        "In-depth JavaScript, CSS, HTML knowledge",
+        "Experience with React tools (Webpack, Redux, Flux)",
+        "UI design experience",
+        "Familiarity with RESTful APIs",
+        "Proficiency with code versioning tools (GIT/GitHub/SVN)",
+        "Browser debugging and performance testing",
+        "Node.js/Vue.js knowledge a plus",
+        "Good troubleshooting and project management"
+      ],
+      "benefits": [
+        "5-day work week",
+        "Flexible work timings",
+        "Work from home",
+        "Bonuses/Structured Incentives",
+        "Insurances",
+        "Good work culture",
+        "Work-life balance"
+      ],
+      "whyInterested": "Great remote work opportunity with modern tech stack",
+      "skillsToLearn": "Advanced React patterns and state management",
+      "goals": "Develop clean, maintainable UI components and improve React expertise"
+    }
+  ]
+
+
