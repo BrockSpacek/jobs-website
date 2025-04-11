@@ -107,7 +107,34 @@
       "whyInterested": "Great remote work opportunity with modern tech stack. The company is also local and they have built a pretty cool system. ",
       "skillsToLearn": "Advanced React patterns and state management. I would also need to work on getting my degree and learning more React Tools and APIs",
       "goals": "I want to vastly improve my UI/UX and front end skills to their standards. I would think this would be a great opportunity for me to do that."
-    }
+    },
+    {
+        "id": 5,
+        "company": "Adobe",
+        "position": "Sr. Product Engagement Manager - Gaming / Mobile Design",
+        "salary": "$122,200 - $234,200/year",
+        "requirements": [
+          "8+ years experience in product management and/or UX design",
+          "Experience working with agile engineering teams",
+          "Proficiency in Figma and strong UX & UI skills",
+          "Expertise in user testing, A/B testing, and rapid prototyping",
+          "Deep understanding of gamification principles and behavioral psychology",
+          "Define and optimize engagement strategies",
+          "Communicate and prototype design ideas",
+          "Create holistic, cross-platform experiences",
+          "Own and evolve the gamification strategy",
+          "Lead UX for creativity and play",
+          "Conduct user testing and research",
+          "Design for young creators",
+          "Develop social and collaborative features"
+        ],
+        "benefits": [
+        "N/A"
+        ],
+        "whyInterested": "I think the Game Design is something that I would be very passionate about. I love being able to design my own things and one day I want someone else to be playing or using something that I can say I created.",
+        "skillsToLearn": "I would first need to gather a lot of experience and be able to develop working games. That would require me to add lots of UX and UI skills to my skillset and to really make sure that my UI/UX skills keep improving when they do  ",
+        "goals": "After gathering enough experience and sharpening my skills, I would make sure that the games that I design are some of the best in the entire world"
+      }
   ]
 
 

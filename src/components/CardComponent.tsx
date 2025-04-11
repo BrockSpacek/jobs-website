@@ -1,9 +1,10 @@
 import Image, { StaticImageData } from 'next/image';
-import steamLogo from '@/assets/steam.png'
-import metaLogo from '@/assets/meta.png'
-import bestpeersLogo from '@/assets/bestpeers.png'
-import blizzardLogo from '@/assets/blizzard.png'
+import steamLogo from '@/assets/steam.png';
+import metaLogo from '@/assets/meta.png';
+import bestpeersLogo from '@/assets/bestpeers.png';
+import blizzardLogo from '@/assets/blizzard.png';
 import defaultLogo from '@/assets/default.png';
+import adobeLogo from '@/assets/adobe.png';
 
 interface CardProps {
   id: number;
@@ -22,6 +23,7 @@ const imageMap: ImageMap = {
   meta: metaLogo,
   bestpeers: bestpeersLogo,
   blizzard: blizzardLogo,
+  adobe: adobeLogo,
 };
 
 export default function CardComponent({ company, position, salary, onClick }: CardProps) {

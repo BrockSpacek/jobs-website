@@ -9,6 +9,7 @@ import metaLogo from '@/assets/meta.png';
 import bestpeersLogo from '@/assets/bestpeers.png';
 import blizzardLogo from '@/assets/blizzard.png';
 import defaultLogo from '@/assets/default.png';
+import adobeLogo from '@/assets/adobe.png';
 
 
 interface ImageMap {
@@ -20,6 +21,7 @@ const imageMap: ImageMap = {
   meta: metaLogo,
   bestpeers: bestpeersLogo,
   blizzard: blizzardLogo,
+  adobe: adobeLogo,
 };
 
 export default function Home() {
