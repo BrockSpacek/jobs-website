@@ -14,6 +14,12 @@ interface CardProps {
   onClick: () => void;
 }
 
+// Per Jacob's Recommendation to comment this out, I wanted to stop using Type anys for images. I needed each image to be on the correct mapping. 
+// We define an ImageMap interface. It has string keys (company names) and values that are StaticImageData (the logo images).
+// We have a company name
+// We convert the name to lowercase and get rid of spaces using .toLowerCase() and .replace()
+// We look up the key "name" in the imageMap object to find the same logo i.e. steam, meta, etc...
+// We use the image in the card component by calling on it
 interface ImageMap {
   [key: string]: StaticImageData;
 }
