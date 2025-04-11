@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 import steamLogo from '@/assets/steam.png'
 import metaLogo from '@/assets/meta.png'
 import bestpeersLogo from '@/assets/bestpeers.png'
@@ -13,8 +13,11 @@ interface CardProps {
   onClick: () => void;
 }
 
-const imageMap: Record<string, any> = {
-  
+interface ImageMap {
+  [key: string]: StaticImageData;
+}
+
+const imageMap: ImageMap = {
   steam: steamLogo,
   meta: metaLogo,
   bestpeers: bestpeersLogo,

@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import jobData from '@/utils/JobEntries.json';
 import CardComponent from '@/components/CardComponent';
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 import steamLogo from '@/assets/steam.png';
 import metaLogo from '@/assets/meta.png';
 import bestpeersLogo from '@/assets/bestpeers.png';
@@ -11,7 +11,11 @@ import blizzardLogo from '@/assets/blizzard.png';
 import defaultLogo from '@/assets/default.png';
 
 
-const imageMap: Record<string, any> = {
+interface ImageMap {
+  [key: string]: StaticImageData;
+}
+
+const imageMap: ImageMap = {
   steam: steamLogo,
   meta: metaLogo,
   bestpeers: bestpeersLogo,
