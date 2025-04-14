@@ -42,7 +42,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen p-8 bg-gradient-to-r from-blue-100 to-purple-100 text-gray-900">
+    <main className="min-h-screen p-8 bg-purple-100 text-gray-900">
       <h1 className="text-4xl font-extrabold mb-8 text-center">🌟 Dream Job Board 🌟</h1>
 
       {!selectedJob && (
